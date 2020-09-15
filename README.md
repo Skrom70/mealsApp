@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+Meals App. List of meals with detail information.
 
 ## Getting Started
 
